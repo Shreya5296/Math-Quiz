@@ -1,0 +1,40 @@
+body {
+	background-image: url("bg2.jpeg");
+	background-size: cover;
+	background-color: lightcyan;
+}
+
+h1 {
+	font-size: 50px;
+	color: cornflowerblue;
+	font-family: fantasy;
+	font-weight: bold;
+}
+
+#plr1_box {
+	background-color: aliceblue;
+}
+
+h3 {
+	color: dodgerblue;
+	font-family: monospace;
+}
+
+#uid {
+	color: lightskyblue;
+	font-family: Geneva;
+}
+
+#player_question,
+#player_answer {
+	color: lightskyblue;
+	font-family: Geneva;
+}
+
+.login_div1,
+.login_div2 {
+	background: white;
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+}
